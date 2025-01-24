@@ -1,0 +1,40 @@
+#countLabel{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #11e0a9;
+}
+#h1{
+    text-align: center;
+    font-size: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #4fa08a;
+}
+#rangeSelect{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 3em;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #4fa08a;
+    border: 2px solid;
+    border-radius: 20px;
+}
+#btnContainer{
+    text-align: center;
+}
+#btnContainer button{
+    font-size: 2em;
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #9e4722;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+#btnContainer button:hover{
+    background-color: #c6794c;
+}
